@@ -6,3 +6,5 @@ Allowing developers to directly communicate with each other insteading of having
 
 ## Personal Comment:
 The article link was here was really helpful to me as someone who is also interested in a Software Engineer career. It really goes to what a software engineer really does on a company and that a collaborative workstyle is very important in this career. That its very important to have good communication skills and being problem solvers. Its interesting to see that the companies are trying to change the traditional style workplace to be more flexible in order to keep up with the changing times. Wilson Xu
+
+Allowing developers to directly communicate with each other insteading of having to rely on a middle man each time is a grreat way to increase productivity. You also have the option of following back to the more traditional framework when needed making this a great model that more companies should follow. -FriedBananaBan
